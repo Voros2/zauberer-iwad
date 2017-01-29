@@ -1,0 +1,6 @@
+;Format of textures:
+;TextureName	Width	Height
+;*	PatchName	Xoffset	Yoffset
+ABADONE     		64	128
+*	W_328       	0	0
+;End
