@@ -22,12 +22,13 @@ Maintained using Deutex, a command-line wad composer for DOS.
   01 to 41).
   
 ### MUSIC
-* MUS or MID format only.
+* MID format only.
 * Naming format: d_map## (where ## replaces a number in the 
   range 01 to 41).
   
 ### SOUNDS
 * WAV format only.
+* 8-bit, mono, 11025 hz
 * Naming format specified in zbuild.txt, under [sounds] section.
 
 ### SPRITES
